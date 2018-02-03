@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Dec 20 13:14:06 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=g1_fat.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|AES.jar>;<jar|XmlSchema-1.4.7.jar>;<jar|activation-1.1.jar>;<jar|allinpay-security-(2015.1.14)-support-jdk1.4.jar>;<jar|aopalliance-1.0.jar>;<jar|aspectjweaver-1.5.0.jar>;<jar|axiom-api-1.2.20.jar>;<jar|axiom-impl-1.2.20.jar>;<jar|axis2-adb-1.7.5.jar>;<jar|axis2-adb-codegen-1.7.5.jar>;<jar|axis2-codegen-1.7.5.jar>;<jar|axis2-java2wsdl-1.7.5.jar>;<jar|axis2-kernel-1.7.5.jar>;<jar|axis2-spring-1.7.5.jar>;<jar|axis2-transport-http-1.7.5.jar>;<jar|axis2-transport-local-1.7.5.jar>;<jar|bcprov-jdk15-141.jar>;<jar|c3p0-0.9.1.jar>;<jar|cglib-nodep-2.2.jar>;<jar|commons-beanutils.jar>;<jar|commons-codec-1.3.jar>;<jar|commons-collections.jar>;<jar|commons-dbcp.jar>;<jar|commons-httpclient-3.1.jar>;<jar|commons-io-1.2.jar>;<jar|commons-lang-2.4.jar>;<jar|commons-logging-1.0.jar>;<jar|dom4j-1.6.jar>;<jar|fastjson-1.1.38.jar>;<jar|httpclient-4.3.3.jar>;<jar|httpcore-4.3.2.jar>;<jar|javadbf.4.1.jar>;<jar|javax.servlet.jsp.jstl.jar>;<jar|jaxen-1.1.1.jar>;<jar|jettison-1.1.jar>;<jar|jsf-api.jar>;<jar|jsf-impl.jar>;<jar|jstl-impl.jar>;<jar|log4j-1.2.14.jar>;<jar|mysql-connector-java-5.0.8-bin.jar>;<jar|neethi-3.0.1.jar>;<jar|refundOrder.jar>;<jar|servlet-api-2.4.jar>;<jar|spring-aop-3.2.1.RELEASE.jar>;<jar|spring-aspects-3.2.1.RELEASE.jar>;<jar|spring-beans-3.2.1.RELEASE.jar>;<jar|spring-context-3.2.1.RELEASE.jar>;<jar|spring-core-3.2.1.RELEASE.jar>;<jar|spring-expression-3.2.1.RELEASE.jar>;<jar|spring-jdbc-3.2.1.RELEASE.jar>;<jar|spring-jms-3.2.1.RELEASE.jar>;<jar|spring-test-3.2.1.RELEASE.jar>;<jar|spring-tx-3.2.1.RELEASE.jar>;<jar|spring-web-3.2.1.RELEASE.jar>;<jar|standard-1.0.2.jar>;<jar|woden-core-1.0M10.jar>;<jar|wsdl4j.jar>;<jar|xmlbeans-2.3.0.jar>;<jar|xmlschema-core-2.2.1.jar>;<jar|xstream-1.3.1.jar>
+includes=
